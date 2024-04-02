@@ -1,0 +1,4 @@
+{
+    "debug.javascript.codelens.npmScripts": "top",
+    "npm.packageManager": "npm"
+}
