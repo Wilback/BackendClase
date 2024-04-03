@@ -6,7 +6,7 @@
     "build": "tsc && npm run",
     "build:dev": "npm run && tsc -w",
     "start": "node dist/app.js",
-    "start:dev": "nodemon dist",
+    "start:dev": "nodemon dist/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
